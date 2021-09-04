@@ -3,21 +3,6 @@
  This is a simple CRUD app built using 
  ## Technoliges used
  
- Ruby
- <img align="left" alt="Ruby" width="26px" src="https://avatars0.githubusercontent.com/u/210414?s=400&v=4" />
- 
- <br/>
-
- Rails
- <img align="left" alt="Rails" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ruby_on_Rails_logo.svg/1200px-Ruby_on_Rails_logo.svg.png" />
- 
- <br/>
-
- PostgreSQL
- <img align="left" alt="PostgreSQL" width="26px" src="https://tse4.mm.bing.net/th?id=OIP.d0C-8A3W1HBzcHqHoUmAzgHaHa&pid=Api&P=0&w=300&h=300" />
-
- <br/>
- 
  React
  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
  
