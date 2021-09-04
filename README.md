@@ -1,6 +1,8 @@
 # contact-keeper-redux-on-rails-client
 
- This is a simple CRUD app built using Ruby, Rails, React, Redux and Redux-Thunk
+ This is a simple CRUD app built using Ruby, Rails, React, Redux and Redux-Thunk,
+ This app allows the user to create a contact, update a contact and delete a contact. 
+ This was a practice app to get my Redux skills down....
 
 Hello, thanks for stopping by!
 
