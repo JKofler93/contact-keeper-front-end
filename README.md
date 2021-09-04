@@ -69,4 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # contact-keeper-redux-on-rails-client
-# contact-keeper-client
+
+Hello, thanks for stopping by!
+
+Step 1: in terminal... npm install
+
+Step 2: in terminal... npm start
+
+Step 2.5: ensure react is running on... localhost:3001 or any other port that's not localhost:3000 due to [back-end](https://github.com/JKofler93/contact-keeper-back-end) running on it
+
+Step 3: Play around with the app... or go to the [back-end](https://github.com/JKofler93/contact-keeper-back-end)
